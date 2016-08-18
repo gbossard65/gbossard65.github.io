@@ -1,6 +1,6 @@
 body {
     background-color: rgb(22, 22, 22);
-    color: linen;
+    color: blue;
     font-size: 150%;
     line-height: 1.4;
 }
@@ -46,9 +46,9 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: red;
     font-size: 110%;
-    background:gray;
+    background:green;
     padding: 4px;
     border:1px solid white;
 }
